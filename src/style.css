@@ -1,0 +1,35 @@
+  /*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
+.rounded-lg {
+  border-radius: 1rem !important;
+}
+.text-small {
+  font-size: 0.9rem !important;
+}
+.custom-separator {
+  width: 5rem;
+  height: 6px;
+  border-radius: 1rem;
+}
+.text-uppercase {
+  letter-spacing: 0.2em;
+}
+/*
+*
+* ==========================================
+* FOR DEMO PURPOSES
+* ==========================================
+*
+*/
+body {
+  background: rgb(1, 181, 246);
+  background: -webkit-linear-gradient(to right, rgb(1, 181, 246), rgb(1, 181, 246));
+  background: linear-gradient(to right, rgb(1, 181, 246), rgb(1, 181, 246));
+  color: #514B64;
+  min-height: 100vh;
+}
